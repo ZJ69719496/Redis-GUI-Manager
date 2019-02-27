@@ -1,2 +1,2 @@
 # Redis-GUI-Manager
-用.Net仿制了一块Redis可视化管理工具
+用.Net仿制了一款Redis Desktop Manager可视化管理工具
