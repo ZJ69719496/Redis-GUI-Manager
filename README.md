@@ -1,8 +1,8 @@
-# Redis-GUI-Manager
-用.Net仿制了一款Redis Desktop Manager可视化管理工具
-皮肤使用CSkin
-Redis操作使用了StackExchange.Redis
-软件中使用的图标使用了从 https://www.easyicon.net/ 收集的图标（如有侵权，请联系我 进行修改）
+# Redis-GUI-Manager  
+用.Net仿制了一款Redis Desktop Manager可视化管理工具  
+皮肤使用CSkin  
+Redis操作使用了StackExchange.Redis  
+软件中使用的图标使用了从 https://www.easyicon.net/ 收集的图标（如有侵权，请联系我 进行修改）  
 
 ![欢迎界面](https://github.com/ZJ69719496/Redis-GUI-Manager/blob/master/%E6%AC%A2%E8%BF%8E%E7%95%8C%E9%9D%A2.png)
 
